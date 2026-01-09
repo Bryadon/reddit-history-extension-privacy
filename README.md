@@ -1,0 +1,1 @@
+# reddit-history-extension-privacy
